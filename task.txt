@@ -1,0 +1,9 @@
+1,RPSLS
+2,Scramble
+3,Picture Quiz
+4,Riddle
+5,Music
+6,Complete Profile
+7,Game
+8,Quiz
+9,Music

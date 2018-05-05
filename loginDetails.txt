@@ -1,0 +1,14 @@
+username,password,email,XP,0
+Ollie,Sonyerix1,null,4947,1584
+johnDoe123,PassW0rd,johnDoe@example.com,0,0
+ol,Sonyerix1,olamidepeters@gmail.ie,3210,2912
+Rookie-Player,Sonyerix1,olamidepeters@gmail.ie,0,0
+username,pASSWORD123,admin@admin.ie,0,0
+emmanuella,dreams24,ellakingovie@gmail.ie,3050,104
+littlepraise,Littlepraise123,olamidepeters@gmail.ie,0,0
+RookiePlayer,Sonyerix1,olamidepeters@gmail.ie,70,100
+OPD,Sonyerix1,olamidepeters@gmail.ie,625,1252
+fphone,Sonyerix1,fphone42@gmail.ie,0,1
+tester123,Sonyerix1,Testone@test.ie,5,1
+ollie222225,Sonyerix1,olamidepters@gmail.ie,55,101
+lifted,toluwalase,liftedjoshua@gmail.com,0,0

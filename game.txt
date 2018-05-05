@@ -1,0 +1,2 @@
+1,RPSLS
+2,Scramble

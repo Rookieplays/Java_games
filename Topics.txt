@@ -1,0 +1,11 @@
+1,Strings
+2,Arrays
+3,Looping
+4,Conditional Statements
+5,Classes//is blank
+6,Operators
+7,Assignment Statements
+8,Key Words
+9,Object oriented programming//is blank
+10,Primitive Data Types//is blank
+11,bahh

@@ -1,0 +1,9 @@
+1,What Type of animal is this?,Hen,rooster,chicken,Horse,2,rooster
+2,How many Horses do you see?,3,5,6,None of the above,2,5
+3,How many Triangles do you see?,20,16,18,19,3,18
+4,Which is longer?,A,B,Same Size,none of these,3,Same Size
+5,What do you see?,Just a red circle,a Horse,a cow,a Zebra,2,a Horse
+6,what do you see?,Nothing,Panda,Just Zig-Zags,none of these,2,Panda
+7,What is this?,Duck,Rabbit,A rabbit and Duck,none of these,3,A rabbit and Duck
+8,what do you see in the brick walls?,A turtles head,A cigar,A stone,nothing,2,A cigar
+9,Which square is darker A/B,A,B,They are the same,none of these,3,They are the same
